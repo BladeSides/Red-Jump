@@ -4,7 +4,7 @@
 ## Sources
 
 - [@bladesides](https://github.com/BladeSides)
-- GeoSketch by Jef Daels
+- [GeoSketch](https://www.nuget.org/packages/GeoSketch/1.9.0) by Jef Daels
 - Made in [Monogame](https://www.monogame.net/)
 
 ## Installation
