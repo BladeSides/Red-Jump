@@ -64,3 +64,9 @@ monodroid*.msi
 
 artifacts/
 *.vsidx
+.vs/Final Project/DesignTimeBuild/.dtbcache.v2
+.vs/Final Project/v17/.futdcache.v2
+.vs/ProjectEvaluation/final project.metadata.v6.1
+.vs/ProjectEvaluation/final project.projects.v6.1
+.vs/Final Project/DesignTimeBuild/.dtbcache.v2
+.vs/Final Project/v17/.futdcache.v2
